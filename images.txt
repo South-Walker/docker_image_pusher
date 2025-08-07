@@ -1,2 +1,1 @@
-valkey/valkey:8
-hub.icert.top/opensearchproject/opensearch:2.19.1
+infiniflow/ragflow:v0.20.0-slim
