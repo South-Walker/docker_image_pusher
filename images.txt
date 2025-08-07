@@ -1,3 +1,2 @@
 valkey/valkey:8
-elasticsearch:lastest
 hub.icert.top/opensearchproject/opensearch:2.19.1
