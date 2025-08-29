@@ -1,1 +1,5 @@
-mysql:8.0.39
+langgenius/dify-api:1.8.0
+langgenius/dify-web:1.8.0
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.2.0-local
+langgenius/qdrant:v1.7.3
