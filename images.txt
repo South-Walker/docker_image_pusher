@@ -1,2 +1,2 @@
-infiniflow/ragflow:v0.24.0
-elasticsearch:8.11.3
+wantcat/trendradar:latest
+wantcat/trendradar-mcp:latest
