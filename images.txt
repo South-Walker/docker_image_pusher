@@ -1,1 +1,3 @@
-ginuerzh/gost:2.11.2
+agentmemory/memory-core:latest
+agentmemory/memory-hub:latest
+agentmemory/memory-proxy:latest
