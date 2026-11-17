@@ -1,3 +1,1 @@
-agentmemory/memory-core:latest
-agentmemory/memory-hub:latest
-agentmemory/memory-proxy:latest
+zhenghaoz/gorse-in-one
